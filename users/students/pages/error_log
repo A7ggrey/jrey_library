@@ -1,0 +1,49 @@
+[12-Jul-2022 09:48:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/jreylibr/public_html/users/students/pages/our-users.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/jreylibr/public_html/users/students/pages/our-users.php on line 237
+[12-Jul-2022 10:15:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/jreylibr/public_html/users/students/pages/our-users.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/jreylibr/public_html/users/students/pages/our-users.php on line 237
+[12-Jul-2022 11:51:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/jreylibr/public_html/users/students/pages/our-users.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/jreylibr/public_html/users/students/pages/our-users.php on line 237
+[12-Jul-2022 12:44:40 UTC] PHP Warning:  Undefined array key "id" in /home/jreylibr/public_html/users/students/pages/dashboard.php on line 13
+[12-Jul-2022 12:44:40 UTC] PHP Warning:  Undefined array key "id" in /home/jreylibr/public_html/users/students/pages/dashboard.php on line 173
+[12-Jul-2022 12:44:40 UTC] PHP Warning:  Undefined variable $profilepic in /home/jreylibr/public_html/users/students/pages/dashboard.php on line 194
+[12-Jul-2022 12:44:40 UTC] PHP Warning:  Undefined variable $firstname in /home/jreylibr/public_html/users/students/pages/dashboard.php on line 196
+[12-Jul-2022 12:44:40 UTC] PHP Warning:  Undefined variable $lastname in /home/jreylibr/public_html/users/students/pages/dashboard.php on line 197
+[13-Jul-2022 07:24:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/jreylibr/public_html/users/students/pages/our-users.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/jreylibr/public_html/users/students/pages/our-users.php on line 237
+[13-Jul-2022 07:26:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/jreylibr/public_html/users/students/pages/our-users.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/jreylibr/public_html/users/students/pages/our-users.php on line 237
+[13-Jul-2022 07:26:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/jreylibr/public_html/users/students/pages/our-users.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/jreylibr/public_html/users/students/pages/our-users.php on line 237
+[13-Jul-2022 07:50:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/jreylibr/public_html/users/students/pages/our-users.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/jreylibr/public_html/users/students/pages/our-users.php on line 237
+[13-Jul-2022 07:50:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/jreylibr/public_html/users/students/pages/our-users.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/jreylibr/public_html/users/students/pages/our-users.php on line 237
+[13-Jul-2022 07:51:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/jreylibr/public_html/users/students/pages/our-users.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/jreylibr/public_html/users/students/pages/our-users.php on line 237
+[14-Jul-2022 11:31:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/jreylibr/public_html/users/students/pages/our-users.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/jreylibr/public_html/users/students/pages/our-users.php on line 237
+[21-Jul-2022 08:42:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/jreylibr/public_html/users/students/pages/our-users.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/jreylibr/public_html/users/students/pages/our-users.php on line 237

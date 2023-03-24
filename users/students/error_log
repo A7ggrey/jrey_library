@@ -1,0 +1,7 @@
+[12-Jul-2022 08:09:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jreylibr/public_html/users/students/requires/database-Config.php on line 12
+[12-Jul-2022 08:23:22 UTC] PHP Warning:  Undefined variable $sessionkey in /home/jreylibr/public_html/users/students/index.php on line 42
+[12-Jul-2022 08:52:22 UTC] PHP Warning:  Undefined variable $sessionkey in /home/jreylibr/public_html/users/students/index.php on line 42
+[12-Jul-2022 08:54:49 UTC] PHP Warning:  Undefined variable $sessionkey in /home/jreylibr/public_html/users/students/index.php on line 42
+[13-Jul-2022 07:49:47 UTC] PHP Warning:  Undefined variable $sessionkey in /home/jreylibr/public_html/users/students/index.php on line 42
+[15-Jul-2022 14:20:06 UTC] PHP Warning:  Undefined variable $sessionkey in /home/jreylibr/public_html/users/students/index.php on line 42
+[25-Jul-2022 10:06:44 UTC] PHP Warning:  Undefined variable $sessionkey in /home/jreylibr/public_html/users/students/index.php on line 42

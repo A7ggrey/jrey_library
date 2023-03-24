@@ -1,0 +1,159 @@
+/*general css*/
+
+/*
+height in percentage (line 8)
+width in percentage (line 50)
+*/
+
+/*height in percentage*/
+
+.height-10 {
+	height: 10%;
+}
+
+.height-20 {
+	height: 20%;
+}
+
+.height-30 {
+	height: 30%;
+}
+
+.height-40 {
+	height: 40%;
+}
+
+.height-50 {
+	height: 50%;
+}
+
+.height-60 {
+	height: 60%;
+}
+
+.height-70 {
+	height: 70%;
+}
+
+.height-80 {
+	height: 80%;
+}
+
+.height-90 {
+	height: 90%;
+}
+
+.height-100 {
+	height: 100%;
+}
+
+/*width in percentage*/
+
+.width-10 {
+	width: 10%;
+}
+
+.width-20 {
+	width: 20%;
+}
+
+.width-30 {
+	width: 30%;
+}
+
+.width-40 {
+	width: 40%;
+}
+
+.width-50 {
+	width: 50%;
+}
+
+.width-60 {
+	width: 60%;
+}
+
+.width-70 {
+	width: 70%;
+}
+
+.width-80 {
+	width: 80%;
+}
+
+.width-90 {
+	width: 90%;
+}
+
+.width-100 {
+	width: 100%;
+}
+
+/*margins*/
+
+.margin-auto {
+	margin: 0 auto;
+}
+
+.image-promo {
+	width: 100%;
+	height: 300px;
+}
+
+.logo {
+	width: 160px;
+	height: 125px;
+}
+
+
+@media (max-device-width: 480px) {
+.input-check {
+	width: ;
+	height: ;
+	font-size: ;
+	font-weight: ;
+}
+
+.input-radio {
+	width: ;
+	height: ;
+	font-size: ;
+	font-weight: ;
+}
+
+.input-others {
+	width: ;
+	height: ;
+	font-size: ;
+	font-weight: ;
+}
+
+.btn-submit {
+	width: ;
+	height: ;
+	font-size: ;
+	font-weight: ;
+}
+
+.btn-others {
+	width: ;
+	height: ;
+	font-size: ;
+	font-weight: ;
+}
+
+.lable-me {
+	width: ;
+	height: ;
+	font-size: ;
+	font-weight: ;
+}
+
+.link-me {
+	width: ;
+	height: ;
+	font-size: ;
+	font-weight: ;
+}
+
+}
